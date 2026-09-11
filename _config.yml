@@ -1,18 +1,20 @@
-title: Leaf Blog
+title: Yoset Cozco
+email: ycozco@unsa.edu.pe
+description: Portafolio profesional de Ingeniería de Sistemas, desarrollo de software, arquitectura, IA y DevOps.
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
+lang: es
 
-# for a clean URL
 permalink: :slug
 
+header_pages:
+  - projects/index.md
+  - about.md
+  - contact.md
+
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  github: ycozco
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
-
-### comments & analytics
-hyvor_talk_website_id: 14
-google_analytics: UA-NNNNNNNN-N
+  - jekyll-feed
+  - jekyll-seo-tag
