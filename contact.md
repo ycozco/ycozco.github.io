@@ -1,10 +1,14 @@
 ---
-title: Contact
+title: Contacto
 layout: page
+permalink: /contact/
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+# Contacto
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
+Puedes revisar mi trabajo técnico y repositorios públicos en GitHub o contactarme por correo.
 
-(Change this by editing `contact.md` file)
+- **GitHub:** [github.com/ycozco](https://github.com/ycozco)
+- **Correo:** [ycozco@unsa.edu.pe](mailto:ycozco@unsa.edu.pe)
+
+Para proyectos privados, el portafolio muestra únicamente arquitectura, funcionalidades y tecnologías relevantes sin publicar código, credenciales ni información sensible.
