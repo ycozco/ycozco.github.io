@@ -4,12 +4,12 @@ layout: page
 permalink: /projects/sas-gym/
 ---
 
-<div class="project-page">
+<div class="project-page project-gym">
 <div class="eyebrow">SaaS · Full Stack · PWA · Infraestructura</div>
 
 # SAS Gym
 
-<p class="lead">Plataforma SaaS para gestión de gimnasios compuesta por API backend, aplicación Flutter Web/PWA, panel administrativo y servicios de datos desplegados mediante Docker.</p>
+<p class="lead">Todo el gimnasio dentro de una sola plataforma. SaaS compuesto por API backend, aplicación Flutter Web/PWA, panel administrativo y servicios de datos desplegados mediante Docker.</p>
 
 <div class="project-facts">
   <div class="fact"><strong>Tipo</strong>Plataforma SaaS</div>
@@ -51,6 +51,6 @@ React Admin ───────┘       │
 - Variables de entorno versionadas mediante plantillas y secretos excluidos del repositorio.
 - Documentación de despliegue y operación para reducir dependencia del entorno del desarrollador.
 
-<div class="callout"><strong>Repositorio:</strong> público. <a target="_blank" href="https://github.com/ycozco/sas-gym-qp">Ver código y documentación en GitHub →</a></div>
+<div class="callout"><strong>Repositorio:</strong> público. <a target="_blank" rel="noopener" href="https://github.com/ycozco/sas-gym-qp">Ver código y documentación en GitHub →</a></div>
 
 </div>
