@@ -1,7 +1,7 @@
 title: Yoset Cozco
 email: ycozco@unsa.edu.pe
 description: Portafolio profesional de Ingeniería de Sistemas, desarrollo de software, arquitectura, IA y DevOps.
-iconURL: assets/default-icon.png
+iconURL: /assets/default-icon.png
 lang: es
 
 permalink: :slug
