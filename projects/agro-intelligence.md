@@ -4,12 +4,12 @@ layout: page
 permalink: /projects/agro-intelligence/
 ---
 
-<div class="project-page">
+<div class="project-page project-agro">
 <div class="eyebrow">IA aplicada · XAI · Datos · Full Stack</div>
 
 # Agro-Intelligence Oversight
 
-<p class="lead">Sistema de análisis de valor FOB declarado en exportaciones agroalimentarias. Combina predicción, detección de anomalías, explicabilidad y recuperación normativa dentro de una aplicación web de supervisión.</p>
+<p class="lead">Una anomalía no basta: hay que explicar por qué. Sistema de análisis de valor FOB declarado en exportaciones agroalimentarias que combina predicción, detección de anomalías, explicabilidad y recuperación normativa dentro de una aplicación web de supervisión.</p>
 
 <div class="project-facts">
   <div class="fact"><strong>Origen</strong>Software desarrollado como componente tecnológico de tesis</div>
@@ -68,6 +68,6 @@ Frontend de supervisión / decisión
 
 Esta ficha se enfoca únicamente en el **software desarrollado** y su arquitectura técnica. La investigación académica sirve como contexto, pero no es el centro del portafolio.
 
-<div class="callout"><strong>Repositorio:</strong> público. <a target="_blank" href="https://github.com/ycozco/tesis_v1_md">Ver código y documentación en GitHub →</a></div>
+<div class="callout"><strong>Repositorio:</strong> público. <a target="_blank" rel="noopener" href="https://github.com/ycozco/tesis_v1_md">Ver código y documentación en GitHub →</a></div>
 
 </div>
