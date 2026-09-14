@@ -4,7 +4,6 @@ layout: page
 permalink: /contact/
 ---
 
-# Contacto
 
 Puedes revisar mi trabajo técnico y repositorios públicos en GitHub o contactarme por correo.
 
