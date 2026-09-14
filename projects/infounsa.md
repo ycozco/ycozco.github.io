@@ -4,12 +4,12 @@ layout: page
 permalink: /projects/infounsa/
 ---
 
-<div class="project-page">
+<div class="project-page project-infounsa">
 <div class="eyebrow">Arquitectura · Equipo · Electron · CI/CD</div>
 
 # INFOUNSA
 
-<p class="lead">Case study de una plataforma modular universitaria orientada a asistencia, inventario y servicios institucionales, con aplicaciones de escritorio, APIs, bases de datos separadas y automatización de despliegue.</p>
+<p class="lead">Una plataforma, múltiples sistemas. Case study de una solución universitaria modular orientada a asistencia, inventario y servicios institucionales, con aplicaciones de escritorio, APIs, bases de datos separadas y automatización de despliegue.</p>
 
 <div class="project-facts">
   <div class="fact"><strong>Tipo</strong>Plataforma modular universitaria</div>
