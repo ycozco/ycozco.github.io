@@ -4,12 +4,12 @@ layout: page
 permalink: /projects/decolumax/
 ---
 
-<div class="project-page">
+<div class="project-page project-decolumax">
 <div class="eyebrow">Web empresarial · SEO · Frontend · Deployment</div>
 
 # Decolumax Jardinería
 
-<p class="lead">Sitio web empresarial para una marca de jardinería y paisajismo, desarrollado con Astro y orientado a rendimiento, SEO técnico, responsive design y despliegue reproducible.</p>
+<p class="lead">Naturaleza diseñada para la web. Sitio empresarial desarrollado con Astro y orientado a rendimiento, SEO técnico, responsive design y despliegue reproducible.</p>
 
 <div class="project-facts">
   <div class="fact"><strong>Tipo</strong>Sitio web empresarial</div>
@@ -56,6 +56,6 @@ Sitio público
 
 Este proyecto complementa los sistemas más complejos del portafolio mostrando capacidad para entregar una solución web empresarial completa: diseño, implementación, optimización, SEO y puesta en producción.
 
-<div class="callout"><strong>Repositorio:</strong> privado. <a target="_blank" href="https://decolumax-jardineria.qpsecuresolutions.cloud/">Ver sitio desplegado →</a></div>
+<div class="callout"><strong>Sitio:</strong> público. <a target="_blank" rel="noopener" href="https://decolumax-jardineria.qpsecuresolutions.cloud/">Ver sitio desplegado →</a></div>
 
 </div>
