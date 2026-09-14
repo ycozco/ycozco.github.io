@@ -7,7 +7,7 @@ permalink: /about/
 
 Soy **Yoset Cozco**, estudiante y desarrollador de Ingeniería de Sistemas con experiencia en desarrollo backend, aplicaciones web, arquitectura modular, bases de datos, automatización, CI/CD e infraestructura con contenedores.
 
-Me interesa especialmente construir soluciones que integren varias capas técnicas: APIs, persistencia, aplicaciones cliente, procesamiento asíncrono, despliegue y documentación. También desarrollo proyectos de inteligencia artificial aplicada y explicabilidad de modelos.
+Me interesa especialmente construir soluciones que integren varias capas técnicas: APIs, persistencia, aplicaciones cliente, procesamiento asíncrono, despliegue y documentación. También desarrollo proyectos de IA aplicada con RAG, detección de anomalías y explicabilidad de modelos.
 
 ## Áreas de trabajo
 
