@@ -4,12 +4,12 @@ layout: page
 permalink: /projects/qp-secure-crm/
 ---
 
-<div class="project-page">
+<div class="project-page project-crm">
 <div class="eyebrow">SaaS · Arquitectura · Backend · Realtime</div>
 
 # QP Secure CRM
 
-<p class="lead">Sistema SaaS CRM multitenant orientado a centralizar contactos y conversaciones, con aislamiento de datos por tenant, procesamiento asíncrono e interacción en tiempo real.</p>
+<p class="lead">Comunicación empresarial sin mezclar los datos. Sistema SaaS CRM multitenant orientado a centralizar contactos y conversaciones, con aislamiento por tenant, procesamiento asíncrono e interacción en tiempo real.</p>
 
 <div class="project-facts">
   <div class="fact"><strong>Tipo</strong>SaaS CRM multitenant</div>
@@ -17,7 +17,7 @@ permalink: /projects/qp-secure-crm/
   <div class="fact"><strong>Estado</strong>MVP funcional con pruebas e integración continua</div>
 </div>
 
-## Qué problema aborda
+## El problema
 
 La solución busca centralizar la operación comercial de distintas organizaciones sin mezclar sus datos. Cada tenant trabaja sobre la misma plataforma, pero sus registros permanecen aislados mediante políticas de seguridad a nivel de fila en PostgreSQL.
 
