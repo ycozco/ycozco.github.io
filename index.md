@@ -3,9 +3,9 @@ layout: home
 ---
 
 <section class="portfolio-hero">
-  <div class="hero-kicker">Software Engineering · Architecture · AI · DevOps</div>
+  <div class="hero-kicker">Software Engineering · Architecture · Applied AI · DevOps</div>
   <h1>Construyo sistemas<br><span class="hero-gradient">que funcionan.</span></h1>
-  <p>Diseño y desarrollo productos de software con foco en arquitectura, datos, automatización e infraestructura. Esta selección resume proyectos donde el valor está tanto en la experiencia de uso como en las decisiones técnicas que permiten operar y escalar.</p>
+  <p>Diseño y desarrollo productos de software con foco en arquitectura, datos, IA aplicada, automatización e infraestructura. Esta selección resume proyectos donde el valor está tanto en la experiencia de uso como en las decisiones técnicas que permiten operar y escalar.</p>
   <div class="hero-actions">
     <a class="btn-portfolio btn-primary" href="{{ '/projects/' | relative_url }}">Explorar proyectos</a>
     <a class="btn-portfolio btn-secondary" target="_blank" rel="noopener" href="https://github.com/ycozco">GitHub ↗</a>
