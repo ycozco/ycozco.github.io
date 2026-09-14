@@ -4,7 +4,6 @@ layout: page
 permalink: /about/
 ---
 
-# Sobre mí
 
 Soy **Yoset Cozco**, estudiante y desarrollador de Ingeniería de Sistemas con experiencia en desarrollo backend, aplicaciones web, arquitectura modular, bases de datos, automatización, CI/CD e infraestructura con contenedores.
 
